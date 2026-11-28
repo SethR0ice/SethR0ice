@@ -13,7 +13,7 @@ Backend developer. I build and run everything at **[r0ice.com](https://r0ice.com
 
 | Repo | What it does |
 |---|---|
-| [llm-route](https://github.com/SethR0ice/llm-route) | AI provider router: health ranking, fallback, JSON validation, spend and privacy rules. Zero dependencies. |
+| [llm-route](https://github.com/SethR0ice/llm-route) | AI provider router: health ranking, fallback, JSON validation, spend and privacy rules. Zero dependencies. On npm: [`npm i llm-route`](https://www.npmjs.com/package/llm-route). |
 | [helix-live-scan](https://github.com/SethR0ice/helix-live-scan) | Checks millions of Twitch channels for live status with a shared rate limit and token refresh. |
 | [free-emote-maker](https://github.com/SethR0ice/free-emote-maker) | In-browser Twitch emote maker with edge-aware background removal. |
 | [r0ice-community-reader](https://github.com/SethR0ice/r0ice-community-reader) | Volunteer app that lends an idle GPU to summarize public-domain books. |
