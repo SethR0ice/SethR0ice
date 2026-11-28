@@ -1,6 +1,8 @@
 ### Hi, I'm Seth (R0ice on Twitch) 👋
 
-Backend developer. I build and run everything at **[r0ice.com](https://r0ice.com/portfolio/)** myself, live on Twitch, every day for 1,250+ days in a row.
+🔴 **Live on Twitch every day for 1,260+ days in a row** (11,900+ hours).
+
+Backend developer. I build and run everything at **[r0ice.com](https://r0ice.com/portfolio/)** myself.
 
 - 🖥️ **One server, run by me:** 220+ services, 600+ scheduled jobs and 50+ domains on a single 8 GB Linux VPS (Node.js, PM2, Caddy, Cloudflare)
 - 🧠 **LLM orchestration:** one router in front of 11 AI providers, with health-ranked fallback, budget pacing and slow jobs sent to 12 volunteer computers
